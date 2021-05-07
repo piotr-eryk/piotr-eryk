@@ -1,6 +1,6 @@
 # Piotr Cholewa
 
-Hi! My name is Piotr and I'm an aspiring Game Developer who loves learning new stuff. There are always some fascinating new technologies that I want to learn, but I know I have to focus on getting better at what I already know to be succesful.
+Hi! My name is Piotr and I'm an aspiring Junior Unity Developer who loves learning new stuff. I know that the best way to learn new things is to challenge yourself and solve any difficulties, so I always try to learn new things.
 
 I have been playing computer games since early childhood. When playing games, I often pay attention to how they were created, reading any blogs devoted to given productions. Thanks to this, while pursuing my hobbies, I can still develop in game development.
 
